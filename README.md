@@ -21,7 +21,7 @@ This is a **Machine Learning Web App** built using **Streamlit** that predicts t
 
 ### 🔹 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/twitter-sentiment-analysis.git
+git clone https://github.com/vaishk984/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
 ```
 
